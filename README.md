@@ -38,7 +38,7 @@
   <img width="5%" title="Jenkins" src="logo/jenkins.png">
   <img width="5%" title="Selenoid" src="logo/selenoid.png">
   <img width="5%" title="Allure Report" src="logo/allure reports.png">
-  <img width="5%" title="Telegram" src="logo/telegram.png">
+  <img width="5%" title="Telegram" src="logo/TG.png">
 </p>
 
 ## Список проверок, реализованных в автотестах
@@ -102,6 +102,6 @@ pytest --alluredir=allure-results  # Запуск с сохранением от
 
 
 
-## <img width="3%" title="Telegram" src="logo/tg.png"> Интеграция с Telegram
+## <img width="3%" title="Telegram" src="logo/TG.png"> Интеграция с Telegram
 После прохождения тестов, в Telegram bot приходит сообщение с графиком и небольшой информацией о тестовом прогоне.
-<img width="40%" title="Telegram Bot" src="logo/tg_bot.png">
+<img width="40%" title="Telegram Bot" src="logo/telegram .png">
