@@ -104,4 +104,4 @@ pytest --alluredir=allure-results  # Запуск с сохранением от
 
 ## <img width="3%" title="Telegram" src="logo/TG.png"> Интеграция с Telegram
 После прохождения тестов, в Telegram bot приходит сообщение с графиком и небольшой информацией о тестовом прогоне.
-<img width="40%" title="Telegram Bot" src="logo/telegram .png">
+<img width="40%" title="Telegram Bot" src="logo/telegram.png">
